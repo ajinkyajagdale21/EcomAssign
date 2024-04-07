@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@prisma/client": "^5.12.1",
+    "@trpc/server": "^9.0.0",
+    "bcryptjs": "^2.4.3",
+    "prisma": "^5.12.1"
+  }
+}
